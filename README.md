@@ -5,9 +5,9 @@ Dada a fórmula da média aritmética<br><br>
 
     media = (nota1 + nota2 + nota3) / 3
 <br><br>
-Dada a classificação:
-    - Média menor que 5, reprovado;
-    - Média entre 5 e 7, recuperação;
+Dada a classificação:<br>
+    - Média menor que 5, reprovado;<br>
+    - Média entre 5 e 7, recuperação;<br>
     - Média igual ou acima de 7, passou de semestre;
 <br><br>
 Por fim, imprimir o resultado no console!
