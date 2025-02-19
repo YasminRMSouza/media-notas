@@ -8,6 +8,8 @@ Classificação:
     - Média menor que 5, reprovado;
     - Média entre 5 e 7, recuperação;
     - Média igual ou acima de 7, passou de semestre;
+
+Imprima o resultado no console!
 */
 
 console.log("-------------------------------------Calculadora de Notas da Faculdade-----------------------------------");
